@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="jstl">
+    <CLASSES>
+      <root url="jar://E:/jakarta-taglibs-standard-1.1.2/lib/jstl.jar!/" />
+      <root url="file://$PROJECT_DIR$/.." />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../DB-OMS/src" />
+      <root url="file://$PROJECT_DIR$/../DBMSProject/src/main/java" />
+      <root url="file://$PROJECT_DIR$/src" />
+      <root url="file://$PROJECT_DIR$/../lyyzoo-ssms/src" />
+    </SOURCES>
+  </library>
+</component>
